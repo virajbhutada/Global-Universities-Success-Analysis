@@ -1,7 +1,7 @@
 # PowerBI_Capstone_Project_University_Success_Analysis
 Comprehensive analysis of global university success using Power BI, integrating data from diverse ranking systems and criteria.
 
-
+---
 ![Screenshot 2023-12-28 223612](https://github.com/virajbhutada/PowerBI_Capstone_Project_University_Success_Analysis/assets/143819712/43533821-033c-4004-b224-8628de11938d)
 
 ## How to Access Project Materials
