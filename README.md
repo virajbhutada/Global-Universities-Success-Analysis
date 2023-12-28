@@ -8,11 +8,9 @@ Comprehensive analysis of global university success using Power BI, integrating 
 - [Link to PowerPoint Presentation](https://docs.google.com/presentation/d/1_Nie-2xwJp_82N4jTMboh_ebvtKNo8oI/edit?usp=sharing&ouid=107078492954401048445&rtpof=true&sd=true) (Important: Access the PowerPoint presentation for a detailed overview of the project)
 ---
 ## Overview
-
 The "University Success Analysis" is a comprehensive capstone project exploring the impact of ranking systems on universities. The project aims to compare university rankings, evaluate the influence of ranking criteria, and analyze dynamic shifts in university metrics over time.
 ---
 ## Significance
-
 This project holds significant implications for gaining insights into and enhancing the performance of universities. The structured dataset, combined with MECE analysis and Power BI visualizations, enables a comprehensive understanding of the factors influencing university success.
 ---
 ## Project Components
