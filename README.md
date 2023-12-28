@@ -137,18 +137,52 @@ Developed four meticulous Power BI dashboards to offer a comprehensive visualiza
 
 ---
 
-## How to Run the Project
+## Project Execution
 
-1. **Power BI File:**
-   - Open `PowerBI_University_Success_Analysis.pbix` using Power BI Desktop.
+Seamlessly navigate the project with these simple steps:
 
-2. **EDA Excel File:**
-   - Open `University_Success_Analysis_EDA.xlsx` in Microsoft Excel.
+### Power Up with Power BI:
 
-3. **Detailed Analysis Report:**
-   - Access insights and methodologies in `University_Success_Detailed_Analysis_Report.docx`.
+1. **Launch Power BI Desktop:**
+   - Open Power BI Desktop.
+   - Explore and open the `PowerBI_University_Success_Analysis.pbix` file.
+
+### Dive into Data with Excel:
+
+2. **Explore Data with Excel:**
+   - Use Microsoft Excel for in-depth analysis.
+   - Open `University_Success_Analysis_EDA.xlsx` to visualize and explore data.
+
+### Uncover Project Insights:
+
+3. **Detailed Project Overview:**
+   - Gain profound insights and methodologies.
+   - Access `University_Success_Detailed_Analysis_Report.docx` for a deep understanding of the project lifecycle, covering data collection, transformation, MECE breakdown, tool integration, EDA insights, and Power BI solutions.
 
 ---
 
-Feel free to customize the content further based on specific details and preferences.
+## Feedback, Contributions, and Git Clone
 
+Your feedback is invaluable! If you have suggestions, or questions, or would like to contribute to the "University Success Analysis" project, feel free to:
+
+- **Open an Issue:**
+  - For bug reports or feature requests, [open an issue](https://github.com/virajbhutada/PowerBI_Capstone_Project_University_Success_Analysis/issues).
+
+- **Submit a Pull Request:**
+  - Contribute enhancements or fixes by [submitting a pull request](https://github.com/virajbhutada/PowerBI_Capstone_Project_University_Success_Analysis/pulls).
+
+- **Reach Out:**
+  - You can [reach out via email](virajnbhutada24@gmail.com).
+
+### Git Clone
+
+To clone the repository and access the project files locally, use the following command:
+
+```bash
+git clone https://github.com/virajbhutada/PowerBI_Capstone_Project_University_Success_Analysis.git
+```
+---
+
+## Project Involvement and Customization
+
+Your active engagement enhances the quality of this project, and your valuable insights are truly appreciated! Your contributions contribute to the excellence of the "University Success Analysis."
