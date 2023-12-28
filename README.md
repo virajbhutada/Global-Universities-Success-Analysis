@@ -40,13 +40,12 @@ This project holds significant implications for gaining insights into and enhanc
 
 ![ER Diagram](https://github.com/virajbhutada/PowerBI_Capstone_Project_University_Success_Analysis/assets/143819712/8fb664bb-beaa-45c1-8e46-125497ef8c7f)
 
-
 *The Entity-Relationship (ER) Diagram illustrates the interconnected data entities, providing a visual guide to the relationships between countries, universities, ranking systems, criteria, and their dynamic interactions in the realm of global higher education.*
 
 
 ### 3. Project Presentation (PowerPoint)
 
-- **File Name:** University_Success_Project_Presentation.pptx
+- **File Name:** Project_Presentation.pptx
 - **Description:** Immerse yourself in a visual journey. This PowerPoint presentation provides an overview of the project, methodologies, and a breakdown of each problem statement addressed during EDA and Power BI phases.
 
 ### 4. Detailed Analysis Report (Word)
@@ -58,6 +57,12 @@ This project holds significant implications for gaining insights into and enhanc
 
 - **File Name:** MECE_Approach_Documentation.docx
 - **Description:** Uncover the method to the madness! This documentation provides insights into the MECE (Mutually Exclusive, Collectively Exhaustive) analysis methodology employed for systematic dataset evaluation.
+
+#### Mutually Exclusive, Collectively Exhaustive (MECE) Approach
+
+![MECE Diagram](https://github.com/virajbhutada/PowerBI_Capstone_Project_University_Success_Analysis/assets/143819712/fc7ce3eb-9c1a-4e6c-94cc-35cfab217a74)
+
+*The Mutually Exclusive, Collectively Exhaustive (MECE) diagram outlines the structured approach applied in dissecting and evaluating the dataset. This method ensures that every component is distinct (Mutually Exclusive) while covering all possibilities (Collectively Exhaustive). It serves as the foundation for uncovering valuable insights and patterns across various dimensions, contributing to a comprehensive understanding of the data.*
 
 ---
 
