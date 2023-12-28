@@ -2,19 +2,19 @@
 Comprehensive analysis of global university success using Power BI, integrating data from diverse ranking systems and criteria.
 
 # University Success Analysis
-
+---
 ## How to Access Project Materials
 
 - [Link to PowerPoint Presentation](https://docs.google.com/presentation/d/1_Nie-2xwJp_82N4jTMboh_ebvtKNo8oI/edit?usp=sharing&ouid=107078492954401048445&rtpof=true&sd=true) (Important: Access the PowerPoint presentation for a detailed overview of the project)
-
+---
 ## Overview
 
 The "University Success Analysis" is a comprehensive capstone project exploring the impact of ranking systems on universities. The project aims to compare university rankings, evaluate the influence of ranking criteria, and analyze dynamic shifts in university metrics over time.
-
-## Project Significance
+---
+## Significance
 
 This project holds significant implications for gaining insights into and enhancing the performance of universities. The structured dataset, combined with MECE analysis and Power BI visualizations, enables a comprehensive understanding of the factors influencing university success.
-
+---
 ## Project Components
 
 ### 1. EDA University Data Analysis (Excel)
@@ -41,7 +41,7 @@ This project holds significant implications for gaining insights into and enhanc
 
 - **File Name:** MECE_Approach_Documentation.docx
 - **Description:** Uncover the method to the madness! This documentation provides insights into the MECE (Mutually Exclusive, Collectively Exhaustive) analysis methodology employed for systematic dataset evaluation.
-
+---
 ## Dataset Description
 
 The dataset offers comprehensive insights into universities, their rankings, and associated metrics. Structured with key tables, it enables a detailed analysis, supporting informed decision-making in higher education.
@@ -65,7 +65,7 @@ The dataset offers comprehensive insights into universities, their rankings, and
 
 6. **University Ranking Year:**
    - University IDs, ranking criteria IDs, years, and scores.
-
+---
 ## Project Objectives
 
 1. Evaluate and Compare University Rankings.
@@ -75,7 +75,7 @@ The dataset offers comprehensive insights into universities, their rankings, and
 5. Perform Correlation Analysis.
 6. Create Data Visualizations and Reports.
 7. Implement Predictive Modeling.
-
+---
 ## Insights from EDA and Power BI
 
 Explore key insights derived from the Exploratory Data Analysis (EDA) and Power BI phases, including:
@@ -84,7 +84,7 @@ Explore key insights derived from the Exploratory Data Analysis (EDA) and Power 
 2. Impact of Criteria
 3. Temporal Changes
 4. Correlation Analysis
-
+---
 ## Power BI Dashboards
 
 Four Power BI dashboards were meticulously crafted to provide a comprehensive visualization of university rankings:
@@ -100,7 +100,7 @@ Four Power BI dashboards were meticulously crafted to provide a comprehensive vi
 
 4. **Yearly Analysis Dashboard:**
    - Examines temporal changes in university metrics and rankings.
-
+---
 ## How to Run the Project
 
 1. **Power BI File:**
@@ -111,10 +111,6 @@ Four Power BI dashboards were meticulously crafted to provide a comprehensive vi
 
 3. **Detailed Analysis Report:**
    - Access insights and methodologies in `University_Success_Detailed_Analysis_Report.docx`.
-
-## Acknowledgments
-
-Special thanks to Equijob for providing the dataset and Acciojob for the privilege and valuable opportunity.
 
 ---
 
