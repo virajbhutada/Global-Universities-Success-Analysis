@@ -38,9 +38,9 @@ This project holds significant implications for gaining insights into and enhanc
 
 #### Entity-Relationship (ER) Diagram
 
-![ER Diagram](https://github.com/virajbhutada/PowerBI_Capstone_Project_University_Success_Analysis/assets/143819712/8fb664bb-beaa-45c1-8e46-125497ef8c7f)
+<img src="https://github.com/virajbhutada/PowerBI_Capstone_Project_University_Success_Analysis/assets/143819712/8fb664bb-beaa-45c1-8e46-125497ef8c7f" alt="ER Diagram" width="1200">
 
-*The Entity-Relationship (ER) Diagram illustrates the interconnected data entities, providing a visual guide to the relationships between countries, universities, ranking systems, criteria, and their dynamic interactions in the realm of global higher education.*
+*The Entity-Relationship (ER) Diagram illustrates the interconnected data entities, providing a visual guide to the relationships between countries, universities, ranking systems, criteria, and their dynamic interactions in the world of global higher education.*
 
 
 ### 3. Project Presentation (PowerPoint)
