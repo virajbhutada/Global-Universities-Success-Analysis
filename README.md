@@ -54,7 +54,7 @@ This project holds significant implications for gaining insights into and enhanc
 
 ### 5. MECE Approach Documentation (Word)
 
-- **File Name:** MECE_Approach_Documentation.docx
+- **File Name:** MECE_Breakdown.docx
 - **Description:** Uncover the method to the madness! This documentation provides insights into the MECE (Mutually Exclusive, Collectively Exhaustive) analysis methodology employed for systematic dataset evaluation.
 
 #### Mutually Exclusive, Collectively Exhaustive (MECE) Approach
