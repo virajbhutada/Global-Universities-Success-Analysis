@@ -117,7 +117,7 @@ Explore key insights derived from the Exploratory Data Analysis (EDA) and Power 
 
 ## Power BI Dashboards
 
-Four Power BI dashboards were meticulously crafted to provide a comprehensive visualization of university rankings:
+Developed four meticulous Power BI dashboards to offer a comprehensive visualization of university rankings:
 
 1. **Country Analysis Dashboard:**
    - Visualizes ranking trends and metrics based on countries.
