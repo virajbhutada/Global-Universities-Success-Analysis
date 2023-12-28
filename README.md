@@ -2,7 +2,7 @@
 Comprehensive analysis of global university success using Power BI, integrating data from diverse ranking systems and criteria.
 
 # University Success Analysis
-![Mansion Image](images/mansion-4751778_1280.jpg)
+![Mansion Image](https://cdn.pixabay.com/photo/2020/01/09/03/43/mansion-4751778_960_720.jpg)
 ---
 ## How to Access Project Materials
 
