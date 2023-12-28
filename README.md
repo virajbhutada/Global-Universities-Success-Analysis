@@ -7,37 +7,40 @@ Comprehensive analysis of global university success using Power BI, integrating 
 
 - [Link to PowerPoint Presentation](https://docs.google.com/presentation/d/1_Nie-2xwJp_82N4jTMboh_ebvtKNo8oI/edit?usp=sharing&ouid=107078492954401048445&rtpof=true&sd=true) (Important: Access the PowerPoint presentation for a detailed overview of the project)
 
-
 ## Overview
 
 The "University Success Analysis" is a comprehensive capstone project exploring the impact of ranking systems on universities. The project aims to compare university rankings, evaluate the influence of ranking criteria, and analyze dynamic shifts in university metrics over time.
+
+## Project Significance
+
+This project holds significant implications for gaining insights into and enhancing the performance of universities. The structured dataset, combined with MECE analysis and Power BI visualizations, enables a comprehensive understanding of the factors influencing university success.
 
 ## Project Components
 
 ### 1. EDA University Data Analysis (Excel)
 
 - **File Name:** University_Success_Analysis_EDA.xlsx
-- **Description:** Detailed Exploratory Data Analysis (EDA) using SQL and Excel. Includes data aggregation, visualizations, and screenshots.
+- **Description:** Dive into detailed Exploratory Data Analysis (EDA) using SQL and Excel. This file includes data aggregation, visualizations, and insightful screenshots.
 
 ### 2. Power BI University Success Analysis (Power BI)
 
 - **File Name:** PowerBI_University_Success_Analysis.pbix
-- **Description:** Power BI file addressing problem statements, visualizing data, and building dashboards for a comprehensive view of university rankings.
+- **Description:** Unlock the power of Power BI! This file addresses problem statements, visualizes data, and builds dashboards for a comprehensive view of university rankings.
 
 ### 3. Project Presentation (PowerPoint)
 
 - **File Name:** University_Success_Project_Presentation.pptx
-- **Description:** PowerPoint presentation providing an overview of the project, methodologies, and breakdown of each problem statement addressed during EDA and Power BI phases.
+- **Description:** Immerse yourself in a visual journey. This PowerPoint presentation provides an overview of the project, methodologies, and a breakdown of each problem statement addressed during EDA and Power BI phases.
 
 ### 4. Detailed Analysis Report (Word)
 
 - **File Name:** University_Success_Detailed_Analysis_Report.docx
-- **Description:** In-depth documentation covering the entire project lifecycle, including data collection, transformation, MECE breakdown, tool integration, EDA insights, and Power BI solutions.
+- **Description:** Delve into the details! This in-depth documentation covers the entire project lifecycle, including data collection, transformation, MECE breakdown, tool integration, EDA insights, and Power BI solutions.
 
 ### 5. MECE Approach Documentation (Word)
 
 - **File Name:** MECE_Approach_Documentation.docx
-- **Description:** Documentation on the MECE (Mutually Exclusive, Collectively Exhaustive) analysis methodology employed for systematic dataset evaluation.
+- **Description:** Uncover the method to the madness! This documentation provides insights into the MECE (Mutually Exclusive, Collectively Exhaustive) analysis methodology employed for systematic dataset evaluation.
 
 ## Dataset Description
 
@@ -73,13 +76,47 @@ The dataset offers comprehensive insights into universities, their rankings, and
 6. Create Data Visualizations and Reports.
 7. Implement Predictive Modeling.
 
+## Insights from EDA and Power BI
 
+Explore key insights derived from the Exploratory Data Analysis (EDA) and Power BI phases, including:
+
+1. Regional Patterns
+2. Impact of Criteria
+3. Temporal Changes
+4. Correlation Analysis
+
+## Power BI Dashboards
+
+Four Power BI dashboards were meticulously crafted to provide a comprehensive visualization of university rankings:
+
+1. **Country Analysis Dashboard:**
+   - Visualizes ranking trends and metrics based on countries.
+
+2. **University Analysis Dashboard:**
+   - Offers insights into individual university performance and metrics.
+
+3. **Ranking System Analysis Dashboard:**
+   - Compares and contrasts rankings across different systems.
+
+4. **Yearly Analysis Dashboard:**
+   - Examines temporal changes in university metrics and rankings.
+
+## How to Run the Project
+
+1. **Power BI File:**
+   - Open `PowerBI_University_Success_Analysis.pbix` using Power BI Desktop.
+
+2. **EDA Excel File:**
+   - Open `University_Success_Analysis_EDA.xlsx` in Microsoft Excel.
+
+3. **Detailed Analysis Report:**
+   - Access insights and methodologies in `University_Success_Detailed_Analysis_Report.docx`.
 
 ## Acknowledgments
 
-Special thanks to Acciojob for providing the dataset and for the privilege and valuable opportunity.
+Special thanks to Equijob for providing the dataset and Acciojob for the privilege and valuable opportunity.
 
 ---
 
-Feel free to customize the content as needed, and include any additional sections or details relevant to your project.
+Feel free to customize the content further based on specific details and preferences.
 
