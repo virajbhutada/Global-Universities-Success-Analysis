@@ -2,6 +2,8 @@
 Comprehensive analysis of global university success using Power BI, integrating data from diverse ranking systems and criteria.
 
 # University Success Analysis
+![mansion-4751778_1280](https://github.com/virajbhutada/PowerBI_Capstone_Project_University_Success_Analysis/assets/143819712/599e1b93-a945-463b-bc69-01db13cef147)
+
 ---
 ![Mansion Image](https://cdn.pixabay.com/photo/2020/01/09/03/43/mansion-4751778_960_720.jpg)
 ## How to Access Project Materials
