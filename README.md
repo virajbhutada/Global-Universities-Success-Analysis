@@ -55,12 +55,12 @@ This project holds significant implications for gaining insights into and enhanc
 ## 4. Project Presentation (PowerPoint)
 
 - **File Name:** Project_Presentation.pptx
-- **Description:** Embark on a visual journey! This PowerPoint presentation offers an overview of the project, methodologies, and a detailed breakdown of each problem statement addressed during the exploratory data analysis (EDA) and Power BI phases.
+- **Description:** Commence a visual journey! This PowerPoint presentation provides an overview of the project, methodologies, and a detailed breakdown of each problem statement addressed during the exploratory data analysis (EDA) and Power BI phases.
 
 ## 5. Detailed Analysis Report (Word)
 
 - **File Name:** University_Success_Detailed_Analysis_Report.docx
-- **Description:** Delve into the details! This comprehensive document guides you through every stage of the project, from data gathering and transformation to systematic breakdown, integration of tools, insights gained through exploratory data analysis (EDA), and implementation of solutions using Power BI.
+- **Description:** Explore the details! This comprehensive document guides you through every stage of the project, from data gathering and transformation to systematic breakdown, integration of tools, insights gained through exploratory data analysis (EDA), and implementation of solutions using Power BI.
 
 ---
 
