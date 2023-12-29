@@ -186,3 +186,8 @@ git clone https://github.com/virajbhutada/PowerBI_Capstone_Project_University_Su
 ## Project Involvement and Customization
 
 Your active engagement enhances the quality of this project, and your valuable insights are truly appreciated! Your contributions contribute to the excellence of the "University Success Analysis."
+
+---
+
+**Project Author:** Viraj N. Bhutada
+- LinkedIn: [Viraj N. Bhutada](https://www.linkedin.com/in/virajnbhutada24/)
