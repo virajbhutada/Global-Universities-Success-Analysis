@@ -7,8 +7,7 @@ Comprehensive analysis of global university success using Power BI, integrating 
 ## How to Access Project Materials
 
 - [Link to the PowerPoint Presentation](https://docs.google.com/presentation/d/1_Nie-2xwJp_82N4jTMboh_ebvtKNo8oI/edit?usp=sharing&ouid=107078492954401048445&rtpof=true&sd=true) Access the PowerPoint presentation for a detailed overview of the project.
-- 
- [![PowerPoint Presentation](https://img.shields.io/badge/PowerPoint-FF0000?style=for-the-badge&logo=google-slides&logoColor=white)](https://docs.google.com/presentation/d/1_Nie-2xwJp_82N4jTMboh_ebvtKNo8oI/edit?usp=sharing&ouid=107078492954401048445&rtpof=true&sd=true)
+-  [![PowerPoint Presentation](https://img.shields.io/badge/PowerPoint-FF0000?style=for-the-badge&logo=google-slides&logoColor=white)](https://docs.google.com/presentation/d/1_Nie-2xwJp_82N4jTMboh_ebvtKNo8oI/edit?usp=sharing&ouid=107078492954401048445&rtpof=true&sd=true)
 
 ---
 
