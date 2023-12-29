@@ -6,7 +6,7 @@ Comprehensive analysis of global university success using Power BI, integrating 
 
 ## How to Access Project Materials
 
-- [Link to PowerPoint Presentation](https://docs.google.com/presentation/d/1_Nie-2xwJp_82N4jTMboh_ebvtKNo8oI/edit?usp=sharing&ouid=107078492954401048445&rtpof=true&sd=true) Access the PowerPoint presentation for a detailed overview of the project.
+- [Link to the PowerPoint Presentation](https://docs.google.com/presentation/d/1_Nie-2xwJp_82N4jTMboh_ebvtKNo8oI/edit?usp=sharing&ouid=107078492954401048445&rtpof=true&sd=true) Access the PowerPoint presentation for a detailed overview of the project.
  [![PowerPoint Presentation](https://img.shields.io/badge/PowerPoint-FF0000?style=for-the-badge&logo=google-slides&logoColor=white)](https://docs.google.com/presentation/d/1_Nie-2xwJp_82N4jTMboh_ebvtKNo8oI/edit?usp=sharing&ouid=107078492954401048445&rtpof=true&sd=true)
 
 ---
@@ -56,7 +56,7 @@ This project holds significant implications for gaining insights into and enhanc
 
 - **File Name:** Project_Presentation.pptx
 - **Description:** Commence a visual journey! This PowerPoint presentation provides an overview of the project, methodologies, and a detailed breakdown of each problem statement addressed during the exploratory data analysis (EDA) and Power BI phases.
-- [Link to PowerPoint Presentation](https://docs.google.com/presentation/d/1_Nie-2xwJp_82N4jTMboh_ebvtKNo8oI/edit?usp=sharing&ouid=107078492954401048445&rtpof=true&sd=true)
+- [Link to the PowerPoint Presentation](https://docs.google.com/presentation/d/1_Nie-2xwJp_82N4jTMboh_ebvtKNo8oI/edit?usp=sharing&ouid=107078492954401048445&rtpof=true&sd=true)
 
 ## 5. Detailed Analysis Report (Word)
 
