@@ -28,13 +28,13 @@ This project holds significant implications for gaining insights into and enhanc
 ### 1. EDA University Data Analysis (Excel)
 
 - **File Name:** University_Success_Analysis_EDA.xlsx
-- **Description:** Dive into detailed Exploratory Data Analysis (EDA) using SQL and Excel. This file includes data aggregation, visualizations, and insightful screenshots.
-
+- **Description:** Engage in a comprehensive Exploratory Data Analysis (EDA) using SQL and Excel. This file incorporates data aggregation, visualizations, and insightful screenshots for a professional understanding.
+  
 ### 2. Power BI University Success Analysis (Power BI)
 
 - **File Name:** PowerBI_University_Success_Analysis.pbix
-- **Description:** Unlock the power of Power BI! This file addresses problem statements, visualizes data, and builds dashboards for a comprehensive view of university rankings.
-
+- **Description:** Leverage the power of Power BI! This file addresses problem statements, visualizes data, and builds dashboards for a comprehensive view of university rankings.
+  
 #### Entity-Relationship (ER) Diagram
 
 <img src="https://github.com/virajbhutada/PowerBI_Capstone_Project_University_Success_Analysis/assets/143819712/8fb664bb-beaa-45c1-8e46-125497ef8c7f" alt="ER Diagram" width="1200">
@@ -45,17 +45,17 @@ This project holds significant implications for gaining insights into and enhanc
 ### 3. Project Presentation (PowerPoint)
 
 - **File Name:** Project_Presentation.pptx
-- **Description:** Immerse yourself in a visual journey. This PowerPoint presentation provides an overview of the project, methodologies, and a breakdown of each problem statement addressed during EDA and Power BI phases.
+- **Description:** Dive into a visual journey! This PowerPoint presentation provides an overview of the project, methodologies, and a detailed breakdown of each problem statement addressed during the exploratory data analysis (EDA) and Power BI phases.
 
 ### 4. Detailed Analysis Report (Word)
 
 - **File Name:** University_Success_Detailed_Analysis_Report.docx
-- **Description:** Delve into the details! This in-depth documentation covers the entire project lifecycle, including data collection, transformation, MECE breakdown, tool integration, EDA insights, and Power BI solutions.
+- **Description:** Explore the details! This comprehensive document walks you through every stage of the project, from gathering and transforming data to breaking it down systematically, integrating tools, gaining insights through exploratory data analysis (EDA), and implementing solutions using Power BI.
 
 ### 5. MECE Approach Documentation (Word)
 
 - **File Name:** MECE_Breakdown.docx
-- **Description:** Uncover the method to the madness! This documentation provides insights into the MECE (Mutually Exclusive, Collectively Exhaustive) analysis methodology employed for systematic dataset evaluation.
+- **Description:** Discover the logic behind the process! This guide gives you a closer look at how we analyze datasets systematically using the MECE (Mutually Exclusive, Collectively Exhaustive) method.
 
 #### Mutually Exclusive, Collectively Exhaustive (MECE) Approach
 
