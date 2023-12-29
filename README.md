@@ -23,45 +23,44 @@ This project holds significant implications for gaining insights into and enhanc
 
 ---
 
-## Project Components
+# Project Components
 
-### 1. EDA University Data Analysis (Excel)
-
-- **File Name:** University_Success_Analysis_EDA.xlsx
-- **Description:** Engage in a comprehensive Exploratory Data Analysis (EDA) using SQL and Excel. This file incorporates data aggregation, visualizations, and insightful screenshots for a professional understanding.
-  
-### 2. Power BI University Success Analysis (Power BI)
-
-- **File Name:** PowerBI_University_Success_Analysis.pbix
-- **Description:** Leverage the power of Power BI! This file addresses problem statements, visualizes data, and builds dashboards for a comprehensive view of university rankings.
-  
-#### Entity-Relationship (ER) Diagram
-
-<img src="https://github.com/virajbhutada/PowerBI_Capstone_Project_University_Success_Analysis/assets/143819712/8fb664bb-beaa-45c1-8e46-125497ef8c7f" alt="ER Diagram" width="1200">
-
-*The Entity-Relationship (ER) Diagram illustrates the interconnected data entities, providing a visual guide to the relationships between countries, universities, ranking systems, criteria, and their dynamic interactions in the world of global higher education.*
-
-
-### 3. Project Presentation (PowerPoint)
-
-- **File Name:** Project_Presentation.pptx
-- **Description:** Dive into a visual journey! This PowerPoint presentation provides an overview of the project, methodologies, and a detailed breakdown of each problem statement addressed during the exploratory data analysis (EDA) and Power BI phases.
-
-### 4. Detailed Analysis Report (Word)
-
-- **File Name:** University_Success_Detailed_Analysis_Report.docx
-- **Description:** Explore the details! This comprehensive document walks you through every stage of the project, from gathering and transforming data to breaking it down systematically, integrating tools, gaining insights through exploratory data analysis (EDA), and implementing solutions using Power BI.
-
-### 5. MECE Approach Documentation (Word)
+## 1. MECE Approach Documentation (Word)
 
 - **File Name:** MECE_Breakdown.docx
-- **Description:** Discover the logic behind the process! This guide gives you a closer look at how we analyze datasets systematically using the MECE (Mutually Exclusive, Collectively Exhaustive) method.
+- **Description:** Uncover the logic behind the process! This guide provides a closer look at how datasets are systematically analyzed using the MECE (Mutually Exclusive, Collectively Exhaustive) method.
 
-#### Mutually Exclusive, Collectively Exhaustive (MECE) Approach
+### Mutually Exclusive, Collectively Exhaustive (MECE) Approach
 
 ![MECE Diagram](https://github.com/virajbhutada/PowerBI_Capstone_Project_University_Success_Analysis/assets/143819712/fc7ce3eb-9c1a-4e6c-94cc-35cfab217a74)
 
-*The Mutually Exclusive, Collectively Exhaustive (MECE) diagram outlines the structured approach applied in dissecting and evaluating the dataset. This method ensures that every component is distinct (Mutually Exclusive) while covering all possibilities (Collectively Exhaustive). It serves as the foundation for uncovering valuable insights and patterns across various dimensions, contributing to a comprehensive understanding of the data.*
+*The MECE diagram outlines the structured approach applied in dissecting and evaluating the dataset. This method ensures that every component is distinct (Mutually Exclusive) while covering all possibilities (Collectively Exhaustive). It serves as the foundation for uncovering valuable insights and patterns across various dimensions, contributing to a comprehensive understanding of the data.*
+
+## 2. EDA University Data Analysis (Excel)
+
+- **File Name:** University_Success_Analysis_EDA.xlsx
+- **Description:** Conduct a thorough Exploratory Data Analysis (EDA) using SQL and Excel. This file includes data aggregation, visualizations, and insightful screenshots for a comprehensive understanding.
+
+## 3. Power BI University Success Analysis (Power BI)
+
+- **File Name:** PowerBI_University_Success_Analysis.pbix
+- **Description:** Harness the capabilities of Power BI! This file addresses problem statements, visualizes data, and constructs dashboards for a comprehensive view of university rankings.
+
+### Entity-Relationship (ER) Diagram
+
+![ER Diagram](https://github.com/virajbhutada/PowerBI_Capstone_Project_University_Success_Analysis/assets/143819712/8fb664bb-beaa-45c1-8e46-125497ef8c7f)
+
+*The Entity-Relationship (ER) Diagram illustrates interconnected data entities, providing a visual guide to relationships between countries, universities, ranking systems, criteria, and their dynamic interactions in global higher education.*
+
+## 4. Project Presentation (PowerPoint)
+
+- **File Name:** Project_Presentation.pptx
+- **Description:** Embark on a visual journey! This PowerPoint presentation offers an overview of the project, methodologies, and a detailed breakdown of each problem statement addressed during the exploratory data analysis (EDA) and Power BI phases.
+
+## 5. Detailed Analysis Report (Word)
+
+- **File Name:** University_Success_Detailed_Analysis_Report.docx
+- **Description:** Delve into the details! This comprehensive document guides you through every stage of the project, from data gathering and transformation to systematic breakdown, integration of tools, insights gained through exploratory data analysis (EDA), and implementation of solutions using Power BI.
 
 ---
 
@@ -150,7 +149,7 @@ Seamlessly navigate the project with these simple steps:
 
 2. **Explore Data with Excel:**
    - Use Microsoft Excel for in-depth analysis.
-   - Open `University_Success_Analysis_EDA.xlsx` to visualize and explore data.
+   - Open `EDA_University_Success_Analysis.xlsx` to visualize and explore data.
 
 ### Uncover Project Insights:
 
