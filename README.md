@@ -46,9 +46,9 @@ This project holds significant implications for gaining insights into and enhanc
 - **File Name:** PowerBI_University_Success_Analysis.pbix
 - **Description:** Harness the capabilities of Power BI! This file addresses problem statements, visualizes data, and constructs dashboards for a comprehensive view of university rankings.
 
-### Entity-Relationship (ER) Diagram
+#### Entity-Relationship (ER) Diagram
 
-![ER Diagram](https://github.com/virajbhutada/PowerBI_Capstone_Project_University_Success_Analysis/assets/143819712/8fb664bb-beaa-45c1-8e46-125497ef8c7f)
+<img src="https://github.com/virajbhutada/PowerBI_Capstone_Project_University_Success_Analysis/assets/143819712/8fb664bb-beaa-45c1-8e46-125497ef8c7f" alt="ER Diagram" width="1200">
 
 *The Entity-Relationship (ER) Diagram illustrates interconnected data entities, providing a visual guide to relationships between countries, universities, ranking systems, criteria, and their dynamic interactions in global higher education.*
 
