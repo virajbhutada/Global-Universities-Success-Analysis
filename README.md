@@ -1,6 +1,8 @@
 # PowerBI, Excel, and SQL Capstone: Global Universities Success Analysis
 
-### Comprehensive global analysis of university success utilizing Power BI, Excel, EDA, and SQL, integrating data from diverse ranking systems and criteria.
+---
+
+#### Comprehensive global analysis of university success utilizing Power BI, Excel, EDA, and SQL, integrating data from diverse ranking systems and criteria.
 
 
 ---
