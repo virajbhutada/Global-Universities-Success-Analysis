@@ -1,5 +1,7 @@
-# PowerBI_Capstone_Project_University_Success_Analysis
-Comprehensive analysis of global university success using Power BI, integrating data from diverse ranking systems and criteria.
+# PowerBI, Excel, EDA, and SQL Capstone: University Success Analysis
+
+### Comprehensive global analysis of university success utilizing Power BI, Excel, EDA, and SQL, integrating data from diverse ranking systems and criteria.
+
 
 ---
 ![Screenshot 2023-12-28 223612](https://github.com/virajbhutada/PowerBI_Capstone_Project_University_Success_Analysis/assets/143819712/43533821-033c-4004-b224-8628de11938d)
