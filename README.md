@@ -126,20 +126,30 @@ Explore key insights derived from the Exploratory Data Analysis (EDA) and Power 
 
 Developed four detailed Power BI dashboards to provide a clear and thorough visual representation of university rankings.
 
-**1. Country Analysis Dashboard:**
+### **1. Country Analysis Dashboard:**
    - Visualizes ranking trends and metrics based on countries.
+     
    ![Country Analysis Dashboard](https://github.com/virajbhutada/PowerBI_Capstone_Project_University_Success_Analysis/assets/143819712/3bd6aaf0-d62d-42d9-a335-475caaff4278)
 
-**2. University Analysis Dashboard:**
+---
+
+### **2. University Analysis Dashboard:**
    - Offers insights into individual university performance and metrics.
+     
    ![University Analysis Dashboard](https://github.com/virajbhutada/PowerBI_Capstone_Project_University_Success_Analysis/assets/143819712/66e72ca1-fcf0-40ac-a768-c2d2270236e7)
 
-**3. Ranking System Analysis Dashboard:**
+---
+
+### **3. Ranking System Analysis Dashboard:**
    - Compares and contrasts rankings across different systems.
+     
    ![Ranking System Analysis Dashboard](https://github.com/virajbhutada/PowerBI_Capstone_Project_University_Success_Analysis/assets/143819712/9a11cd07-6bb3-4646-b181-9ffd5acf7820)
 
-**4. Yearly Analysis Dashboard:**
+---
+
+### **4. Yearly Analysis Dashboard:**
    - Examines temporal changes in university metrics and rankings.
+     
    ![Yearly Analysis Dashboard](https://github.com/virajbhutada/PowerBI_Capstone_Project_University_Success_Analysis/assets/143819712/1fa6286c-6b1b-4abc-ae97-c79ce7b59f05)
 
 ---
