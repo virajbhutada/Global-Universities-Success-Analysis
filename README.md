@@ -1,4 +1,4 @@
-# PowerBI, Excel, and SQL Capstone: Global Universities Success Analysisj
+# PowerBI, Excel, and SQL Capstone: Global Universities Success Analysis
 
 ---
 
