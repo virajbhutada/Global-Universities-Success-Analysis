@@ -1,4 +1,4 @@
-# PowerBI, Excel, and SQL Capstone: Global Universities Success Analysis
+# Global Universities Success Analysis (PowerBI, Excel and SQL)
 
 ---
 
@@ -183,10 +183,10 @@ Seamlessly navigate the project with these simple steps:
 Your feedback is invaluable! If you have suggestions, or questions, or would like to contribute to the "University Success Analysis" project, feel free to:
 
 - **Open an Issue:**
-  - For bug reports or feature requests, [open an issue](https://github.com/virajbhutada/PowerBI_Capstone_Project_University_Success_Analysis/issues).
+  - For bug reports or feature requests, [open an issue](https://github.com/virajbhutada/Global-Universities-Success-Analysis/issues).
 
 - **Submit a Pull Request:**
-  - Contribute enhancements or fixes by [submitting a pull request](https://github.com/virajbhutada/PowerBI_Capstone_Project_University_Success_Analysis/pulls).
+  - Contribute enhancements or fixes by [submitting a pull request](https://github.com/virajbhutada/Global-Universities-Success-Analysis/pulls).
 
 - **Reach Out:**
   - You can [reach out via email](virajnbhutada24@gmail.com).
@@ -196,7 +196,7 @@ Your feedback is invaluable! If you have suggestions, or questions, or would lik
 To clone the repository and access the project files locally, use the following command:
 
 ```bash
-git clone https://github.com/virajbhutada/PowerBI_Capstone_Project_University_Success_Analysis.git
+git clone https://github.com/virajbhutada/Global-Universities-Success-Analysis.git
 ```
 ---
 
