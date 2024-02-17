@@ -1,4 +1,4 @@
-# Global Universities Success Analysis (PowerBI, Excel and SQL)
+# Analysis of Global Universities' Success Using PowerBI, Excel, and SQL
 
 
 
