@@ -1,4 +1,5 @@
 # Analysis of Global Universities' Success Using PowerBI, Excel, and SQL
+# Global Universities Analysis: PowerBI, Excel, & SQL
 
 
  Comprehensive global analysis of university success utilizing Power BI, Excel, EDA, and SQL, integrating data from diverse ranking systems and criteria.
