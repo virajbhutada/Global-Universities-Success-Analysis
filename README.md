@@ -1,11 +1,12 @@
 # Global Universities Success Analysis (PowerBI, Excel and SQL)
 
----
+
 
 #### Comprehensive global analysis of university success utilizing Power BI, Excel, EDA, and SQL, integrating data from diverse ranking systems and criteria.
 
 
 ---
+
 ![Screenshot 2023-12-28 223612](https://github.com/virajbhutada/PowerBI_Capstone_Project_University_Success_Analysis/assets/143819712/43533821-033c-4004-b224-8628de11938d)
 
 ## How to Access Project Materials
@@ -206,8 +207,9 @@ Your active engagement enhances the quality of this project, and your valuable i
 
 ---
 
-**Project Author:** Viraj N. Bhutada
-- ### LinkedIn: [Viraj N. Bhutada](https://www.linkedin.com/in/virajnbhutada24/)
+## Connect With Me 🌐
+
+**[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj%20Bhutada-blue?logo=linkedin)](https://www.linkedin.com/in/virajnbhutada24/)**
 
 ---
 
